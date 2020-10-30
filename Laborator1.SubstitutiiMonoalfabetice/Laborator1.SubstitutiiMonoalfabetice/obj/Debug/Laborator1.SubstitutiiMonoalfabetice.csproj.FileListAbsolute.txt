@@ -1,0 +1,10 @@
+C:\Users\Cuc Denis\source\repos\Laborator1.SubstitutiiMonoalfabetice\Laborator1.SubstitutiiMonoalfabetice\bin\Debug\Laborator1.SubstitutiiMonoalfabetice.exe.config
+C:\Users\Cuc Denis\source\repos\Laborator1.SubstitutiiMonoalfabetice\Laborator1.SubstitutiiMonoalfabetice\bin\Debug\Laborator1.SubstitutiiMonoalfabetice.exe
+C:\Users\Cuc Denis\source\repos\Laborator1.SubstitutiiMonoalfabetice\Laborator1.SubstitutiiMonoalfabetice\bin\Debug\Laborator1.SubstitutiiMonoalfabetice.pdb
+C:\Users\Cuc Denis\source\repos\Laborator1.SubstitutiiMonoalfabetice\Laborator1.SubstitutiiMonoalfabetice\obj\Debug\Laborator1.SubstitutiiMonoalfabetice.csprojAssemblyReference.cache
+C:\Users\Cuc Denis\source\repos\Laborator1.SubstitutiiMonoalfabetice\Laborator1.SubstitutiiMonoalfabetice\obj\Debug\Laborator1.SubstitutiiMonoalfabetice.Form1.resources
+C:\Users\Cuc Denis\source\repos\Laborator1.SubstitutiiMonoalfabetice\Laborator1.SubstitutiiMonoalfabetice\obj\Debug\Laborator1.SubstitutiiMonoalfabetice.Properties.Resources.resources
+C:\Users\Cuc Denis\source\repos\Laborator1.SubstitutiiMonoalfabetice\Laborator1.SubstitutiiMonoalfabetice\obj\Debug\Laborator1.SubstitutiiMonoalfabetice.csproj.GenerateResource.cache
+C:\Users\Cuc Denis\source\repos\Laborator1.SubstitutiiMonoalfabetice\Laborator1.SubstitutiiMonoalfabetice\obj\Debug\Laborator1.SubstitutiiMonoalfabetice.csproj.CoreCompileInputs.cache
+C:\Users\Cuc Denis\source\repos\Laborator1.SubstitutiiMonoalfabetice\Laborator1.SubstitutiiMonoalfabetice\obj\Debug\Laborator1.SubstitutiiMonoalfabetice.exe
+C:\Users\Cuc Denis\source\repos\Laborator1.SubstitutiiMonoalfabetice\Laborator1.SubstitutiiMonoalfabetice\obj\Debug\Laborator1.SubstitutiiMonoalfabetice.pdb
