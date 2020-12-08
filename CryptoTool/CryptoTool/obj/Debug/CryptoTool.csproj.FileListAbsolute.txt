@@ -1,0 +1,17 @@
+C:\Users\cuc_d\source\repos\CryptoTool\CryptoTool\obj\Debug\CryptoTool.csprojAssemblyReference.cache
+C:\Users\cuc_d\source\repos\CryptoTool\CryptoTool\obj\Debug\CryptoToolHome.g.cs
+C:\Users\cuc_d\source\repos\CryptoTool\CryptoTool\obj\Debug\App.g.cs
+C:\Users\cuc_d\source\repos\CryptoTool\CryptoTool\obj\Debug\CryptoTool_MarkupCompile.cache
+C:\Users\cuc_d\source\repos\CryptoTool\CryptoTool\obj\Debug\CryptoTool_MarkupCompile.lref
+C:\Users\cuc_d\source\repos\CryptoTool\CryptoTool\obj\Debug\MainWindow.g.cs
+C:\Users\cuc_d\source\repos\CryptoTool\CryptoTool\bin\Debug\CryptoTool.exe.config
+C:\Users\cuc_d\source\repos\CryptoTool\CryptoTool\bin\Debug\CryptoTool.exe
+C:\Users\cuc_d\source\repos\CryptoTool\CryptoTool\bin\Debug\CryptoTool.pdb
+C:\Users\cuc_d\source\repos\CryptoTool\CryptoTool\obj\Debug\CryptoToolHome.baml
+C:\Users\cuc_d\source\repos\CryptoTool\CryptoTool\obj\Debug\MainWindow.baml
+C:\Users\cuc_d\source\repos\CryptoTool\CryptoTool\obj\Debug\CryptoTool.g.resources
+C:\Users\cuc_d\source\repos\CryptoTool\CryptoTool\obj\Debug\CryptoTool.Properties.Resources.resources
+C:\Users\cuc_d\source\repos\CryptoTool\CryptoTool\obj\Debug\CryptoTool.csproj.GenerateResource.cache
+C:\Users\cuc_d\source\repos\CryptoTool\CryptoTool\obj\Debug\CryptoTool.csproj.CoreCompileInputs.cache
+C:\Users\cuc_d\source\repos\CryptoTool\CryptoTool\obj\Debug\CryptoTool.exe
+C:\Users\cuc_d\source\repos\CryptoTool\CryptoTool\obj\Debug\CryptoTool.pdb
